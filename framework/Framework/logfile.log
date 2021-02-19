@@ -1,0 +1,89 @@
+2021-02-16 12:55:36,730 : INFO : test_website : Name is Jatin Ssingh
+2021-02-16 12:55:36,834 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-16 12:55:36,933 : INFO : test_website : Password is JatinSsingh
+2021-02-16 12:55:39,047 : INFO : test_website : Name is JATIN SSINGH
+2021-02-16 12:55:39,138 : INFO : test_website : Email is JATINSSINGH@GMAIL.COM
+2021-02-16 12:55:39,238 : INFO : test_website : Password is JATINSSINGH
+2021-02-16 14:22:51,439 : INFO : test_case1 : List of All Mobiles
+2021-02-16 14:22:53,507 : INFO : test_case1 : iphone X
+2021-02-16 14:22:53,590 : INFO : test_case1 : Samsung Note 8
+2021-02-16 14:22:53,617 : INFO : test_case1 : Nokia Edge
+2021-02-16 14:22:53,641 : INFO : test_case1 : Blackberry
+2021-02-16 14:22:56,806 : INFO : test_case1 : Enter the Country Name as Ind
+2021-02-16 14:23:07,156 : INFO : test_case1 : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-16 18:27:21,407 : INFO : test_case1 : List of All Mobiles
+2021-02-16 18:27:23,487 : INFO : test_case1 : iphone X
+2021-02-16 18:27:23,569 : INFO : test_case1 : Samsung Note 8
+2021-02-16 18:27:23,597 : INFO : test_case1 : Nokia Edge
+2021-02-16 18:27:23,623 : INFO : test_case1 : Blackberry
+2021-02-16 18:27:26,835 : INFO : test_case1 : Enter the Country Name as Ind
+2021-02-16 18:27:37,233 : INFO : test_case1 : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-16 18:44:03,007 : INFO : test_case1 : List of All Mobiles
+2021-02-16 18:44:05,048 : INFO : test_case1 : iphone X
+2021-02-16 18:44:05,144 : INFO : test_case1 : Samsung Note 8
+2021-02-16 18:44:05,169 : INFO : test_case1 : Nokia Edge
+2021-02-16 18:44:05,194 : INFO : test_case1 : Blackberry
+2021-02-16 18:44:08,365 : INFO : test_case1 : Enter the Country Name as Ind
+2021-02-16 18:44:18,732 : INFO : test_case1 : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-16 18:44:26,896 : INFO : test_website : Name is Jatin Ssingh
+2021-02-16 18:44:27,027 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-16 18:44:27,127 : INFO : test_website : Password is JatinSsingh
+2021-02-16 18:44:28,978 : INFO : test_website : Name is JATIN SSINGH
+2021-02-16 18:44:29,067 : INFO : test_website : Email is JATINSSINGH@GMAIL.COM
+2021-02-16 18:44:29,161 : INFO : test_website : Password is JATINSSINGH
+2021-02-17 12:42:39,344 : INFO : test_website : Name is Jatin Ssingh
+2021-02-17 12:42:40,095 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-17 12:42:40,188 : INFO : test_website : Password is JatinSsingh
+2021-02-17 14:17:58,967 : INFO : test_website : Name is Jatin Ssingh
+2021-02-17 14:17:59,073 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-17 14:17:59,173 : INFO : test_website : Password is JatinSsingh
+2021-02-17 14:18:36,542 : INFO : test_website : Name is Jatin Ssingh
+2021-02-17 14:18:36,641 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-17 14:18:36,736 : INFO : test_website : Password is JatinSsingh
+2021-02-17 14:18:37,170 : INFO : test_website : Name is JATIN SSINGH
+2021-02-17 14:18:37,242 : INFO : test_website : Email is JATINSSINGH@GMAIL.COM
+2021-02-17 14:18:37,348 : INFO : test_website : Password is JATINSSINGH
+2021-02-17 14:20:22,209 : INFO : test_website : Name is Jatin Ssingh
+2021-02-17 14:20:22,311 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-17 14:20:22,402 : INFO : test_website : Password is JatinSsingh
+2021-02-17 14:20:24,181 : INFO : test_website : Name is JATIN SSINGH
+2021-02-17 14:20:24,276 : INFO : test_website : Email is JATINSSINGH@GMAIL.COM
+2021-02-17 14:20:24,376 : INFO : test_website : Password is JATINSSINGH
+2021-02-17 14:20:39,240 : INFO : test_website : Name is Jatin Ssingh
+2021-02-17 14:20:39,345 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-17 14:20:39,441 : INFO : test_website : Password is JatinSsingh
+2021-02-17 14:20:39,885 : INFO : test_website : Name is JATIN SSINGH
+2021-02-17 14:20:39,961 : INFO : test_website : Email is JATINSSINGH@GMAIL.COM
+2021-02-17 14:20:40,047 : INFO : test_website : Password is JATINSSINGH
+2021-02-17 14:21:54,319 : INFO : test_website : Name is Jatin Ssingh
+2021-02-17 14:21:54,424 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-17 14:21:54,523 : INFO : test_website : Password is JatinSsingh
+2021-02-17 14:26:11,630 : INFO : test_case1 : List of All Mobiles
+2021-02-17 14:26:13,692 : INFO : test_case1 : iphone X
+2021-02-17 14:26:13,773 : INFO : test_case1 : Samsung Note 8
+2021-02-17 14:26:13,801 : INFO : test_case1 : Nokia Edge
+2021-02-17 14:26:13,827 : INFO : test_case1 : Blackberry
+2021-02-17 14:26:17,058 : INFO : test_case1 : Enter the Country Name as Ind
+2021-02-17 14:26:27,424 : INFO : test_case1 : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-02-17 14:26:36,266 : INFO : test_website : Name is Jatin Ssingh
+2021-02-17 14:26:36,382 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-17 14:26:36,496 : INFO : test_website : Password is JatinSsingh
+2021-02-17 14:26:37,269 : INFO : test_website : Name is JATIN SSINGH
+2021-02-17 14:26:37,347 : INFO : test_website : Email is JATINSSINGH@GMAIL.COM
+2021-02-17 14:26:37,434 : INFO : test_website : Password is JATINSSINGH
+2021-02-17 14:31:41,862 : INFO : test_website : Name is Jatin Ssingh
+2021-02-17 14:31:41,969 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-17 14:31:42,068 : INFO : test_website : Password is JatinSsingh
+2021-02-17 14:31:42,792 : INFO : test_website : Name is JATIN SSINGH
+2021-02-17 14:31:42,871 : INFO : test_website : Email is JATINSSINGH@GMAIL.COM
+2021-02-17 14:31:42,974 : INFO : test_website : Password is JATINSSINGH
+2021-02-17 17:05:32,267 : INFO : test_website : Name is Jatin Ssingh
+2021-02-17 17:05:32,369 : INFO : test_website : Email is jatinssingh@gmail.com
+2021-02-17 17:05:32,461 : INFO : test_website : Password is JatinSsingh
+2021-02-17 17:05:34,528 : INFO : test_website : Name is JATIN SSINGH
+2021-02-17 17:05:34,627 : INFO : test_website : Email is JATINSSINGH@GMAIL.COM
+2021-02-17 17:05:34,731 : INFO : test_website : Password is JATINSSINGH
